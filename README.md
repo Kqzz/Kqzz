@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqzz&layout=compact&theme=onedark" alt="kqzz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kqzz&show_icons=true&theme=onedark" alt="kqzz" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kqzz&show_icons=true&theme=onedark" alt="kqzz" />
