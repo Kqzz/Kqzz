@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kqzz</h1>
 <h3 align="center">I love to code and learn about computers and technology.</h3>
 
-- 🔭 I'm currently working on [MCsniperPY](https://github.com/Kqzz/MCsniperPY)
+- I'm currently working on [MCsniperPY](https://github.com/Kqzz/MCsniperPY)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kqzz?tab=repositories](https://github.com/Kqzz?tab=repositories)
-
-- 💬 Ask me about **python**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
