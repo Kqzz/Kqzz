@@ -14,3 +14,6 @@
 <p></p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kqzz&show_icons=true&theme=onedark" alt="kqzz" />
+
+
+<img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/github_thing.svg"/>
