@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/top.svg"/>
+
 <h1 align="center">Hi 👋, I'm Kqzz</h1>
 <h3 align="center">I love to code and learn about computers and technology.</h3>
 
@@ -16,4 +18,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kqzz&show_icons=true&theme=onedark" alt="kqzz" />
 
 
-<img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/github_thing.svg"/>
+<img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/bottom.svg"/>
