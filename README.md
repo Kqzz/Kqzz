@@ -3,11 +3,12 @@
 <h1 align="center">Hi 👋, I'm Kqzz</h1>
 <h3 align="center">I'm a beginner programmer learned Python and Node.JS</h3>
 
+<p align="center">
 - Discord: `Kqzz#0001`
 - Youtube: [link](https://www.youtube.com/channel/UCbuxrzqy-Xsbyx9Fq42oP_A)
 
 - projects: `MCsniperPY and MC-api (at the moment)`
-
+</p>
 <h1 align="center">    </h1>
 <h1 align="center">stats</h1>
 
