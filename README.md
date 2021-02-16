@@ -15,7 +15,7 @@
 
 <p></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kqzz" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kqzz&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kqzz" />
 
 
 <img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/bottom.svg"/>
