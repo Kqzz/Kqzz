@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/Kqzz/Kqzz/master/top.svg"/>
 
 <h1 align="center">Hi 👋, I'm Kqzz</h1>
-<h3 align="center">I love to code and learn about computers and technology.</h3>
+<h3 align="center">I'm a beginner programmer learned Python and Node.JS</h3>
 
 - Discord: `Kqzz#0001`
 - Youtube: [link](https://www.youtube.com/channel/UCbuxrzqy-Xsbyx9Fq42oP_A)
