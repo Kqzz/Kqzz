@@ -4,6 +4,7 @@
 <h3 align="center">I'm a beginner programmer learned Python and Node.JS</h3>
 
 <p align="center">
+
 - Discord: `Kqzz#0001`
 - Youtube: [link](https://www.youtube.com/channel/UCbuxrzqy-Xsbyx9Fq42oP_A)
 
