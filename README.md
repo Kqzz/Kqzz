@@ -11,7 +11,7 @@
 - projects: `MCsniperPY and MC-api (at the moment)`
 </p>
 <h1 align="center">    </h1>
-<h1 align="center">stats</h1>
+<h1 align="center">Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Kqzz&show_icons=true&text_color=ffffff&bg_color=7fb3ff&title_color=ffffff&icon_color=ffffff" alt="kqzz" /></p>
 
