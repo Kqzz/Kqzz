@@ -5,8 +5,8 @@
 
 <p align="center">
 
-- Discord: `Kqzz#0001`
-- Youtube: [link](https://www.youtube.com/channel/UCbuxrzqy-Xsbyx9Fq42oP_A)
+- Discord: [Kqzz#0001](https://discordid.netlify.app/?id=703244711187578911)
+- Youtube: [Kqzz](https://www.youtube.com/channel/UCbuxrzqy-Xsbyx9Fq42oP_A)
 
 - projects: `MCsniperPY and MC-api (at the moment)`
 </p>
