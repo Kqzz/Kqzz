@@ -19,4 +19,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kqzz&background=7FCFDD&ring=3693DD&fire=3693DD&currStreakNum=000000&currStreakLabel=3693DD)](https://git.io/streak-stats)
 
 #### Metrics
-![Metrics](https://github.com/Kqzz/Kqzz/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Kqzz/Kqzz/blob/master/github-metrics.svg)
