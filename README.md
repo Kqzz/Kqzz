@@ -9,7 +9,7 @@
 <summary><strong>github stats</strong></summary>
   
 ### wakatime
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Kqzz/f0e8d9e4-f7c8-4118-b35e-41b3a6ad4cb8.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Kqzz/9163cc19-fc50-4241-95c0-478cf831b3bc.svg" /></a>
 
 #### streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kqzz&background=7FCFDD&ring=3693DD&fire=3693DD&currStreakNum=000000&currStreakLabel=3693DD)](https://git.io/streak-stats)
